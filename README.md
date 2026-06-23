@@ -46,15 +46,16 @@ I specialize in transforming raw data into actionable business insights through 
 
 ## Featured Projects
 
-### [Retail Sales & Profitability Analytics](YOUR_REPOSITORY_LINK)
+### [Retail Sales & Profitability Analytics](https://github.com/gurubava200509/Retail-Sales-Profitability-Analytics)
+
 
 Analyzed retail sales and profitability performance using the Sample Superstore dataset. Conducted data cleaning, SQL-based analysis, and Power BI dashboard development to identify revenue drivers, profit trends, customer purchasing patterns, and category-level performance opportunities.
 
 **Tools:** Python, SQL, Power BI
 
 ---
+### [Supply Chain Performance Analytics](https://github.com/gurubava200509/Supply-Chain-Performance-Analytics)
 
-### [Supply Chain Performance Analytics](YOUR_REPOSITORY_LINK)
 
 Analyzed supply chain operations using 100K+ order records to evaluate delivery performance, order fulfillment efficiency, inventory operations, and payment behavior. Developed KPIs and dashboards to identify operational bottlenecks and improve business performance visibility.
 
@@ -62,7 +63,8 @@ Analyzed supply chain operations using 100K+ order records to evaluate delivery 
 
 ---
 
-### [Customer Lifetime Value (CLV) & Cohort Analytics](YOUR_REPOSITORY_LINK)
+### [Customer Lifetime Value (CLV) & Cohort Analytics](https://github.com/gurubava200509/Customer-Lifetime-Value-Cohort-Analytics)
+
 
 Performed customer lifetime value and cohort analysis to measure retention patterns, repeat purchase behavior, customer profitability, and long-term engagement. Built dashboards to support customer segmentation and retention-focused decision-making.
 
