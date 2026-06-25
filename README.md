@@ -46,7 +46,7 @@ I specialize in transforming raw data into actionable business insights through 
 
 ## Featured Projects
 
-### [E-Commerce Sales Analytics](https://github.com/gurubava200509/E-Commerce-Sales-Analytics)
+### [E-Commerce Sales Analytics](https://github.com/gurubava200509/ecommerce-sales-delivery-performance-analytics)
 
 Analyzed e-commerce sales performance, revenue trends, customer purchasing behavior, and product category performance. Developed SQL analysis and Power BI dashboards to identify sales drivers, profitability patterns, and business growth opportunities.
 
