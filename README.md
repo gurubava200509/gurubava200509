@@ -46,10 +46,9 @@ I specialize in transforming raw data into actionable business insights through 
 
 ## Featured Projects
 
-### [Retail Sales & Profitability Analytics](https://github.com/gurubava200509/Retail-Sales-Profitability-Analytics)
+### [E-Commerce Sales Analytics](https://github.com/gurubava200509/E-Commerce-Sales-Analytics)
 
-
-Analyzed retail sales and profitability performance using the Sample Superstore dataset. Conducted data cleaning, SQL-based analysis, and Power BI dashboard development to identify revenue drivers, profit trends, customer purchasing patterns, and category-level performance opportunities.
+Analyzed e-commerce sales performance, revenue trends, customer purchasing behavior, and product category performance. Developed SQL analysis and Power BI dashboards to identify sales drivers, profitability patterns, and business growth opportunities.
 
 **Tools:** Python, SQL, Power BI
 
