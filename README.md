@@ -99,9 +99,9 @@ Performed customer lifetime value and cohort analysis to measure retention patte
 
 ## Connect With Me
 
-**LinkedIn:** Your LinkedIn URL
+**LinkedIn:** https://www.linkedin.com/in/gurubava
 
-**Email:** Your Email Address
+**Email:** gurubava09@gmail.com
 
 ---
 
