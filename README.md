@@ -46,9 +46,10 @@ I specialize in transforming raw data into actionable business insights through 
 
 ## Featured Projects
 
-### [E-Commerce Sales Analytics](https://github.com/gurubava200509/ecommerce-sales-delivery-performance-analytics)
+### [Customer Lifetime Value (CLV) & Cohort Analytics](https://github.com/gurubava200509/Customer-Lifetime-Value-Cohort-Analytics)
 
-Analyzed e-commerce sales performance, revenue trends, customer purchasing behavior, and product category performance. Developed SQL analysis and Power BI dashboards to identify sales drivers, profitability patterns, and business growth opportunities.
+
+Performed customer lifetime value and cohort analysis to measure retention patterns, repeat purchase behavior, customer profitability, and long-term engagement. Built dashboards to support customer segmentation and retention-focused decision-making.
 
 **Tools:** Python, SQL, Power BI
 
@@ -62,10 +63,9 @@ Analyzed supply chain operations using 100K+ order records to evaluate delivery 
 
 ---
 
-### [Customer Lifetime Value (CLV) & Cohort Analytics](https://github.com/gurubava200509/Customer-Lifetime-Value-Cohort-Analytics)
+### [E-Commerce Sales Analytics](https://github.com/gurubava200509/ecommerce-sales-delivery-performance-analytics)
 
-
-Performed customer lifetime value and cohort analysis to measure retention patterns, repeat purchase behavior, customer profitability, and long-term engagement. Built dashboards to support customer segmentation and retention-focused decision-making.
+Analyzed e-commerce sales performance, revenue trends, customer purchasing behavior, and product category performance. Developed SQL analysis and Power BI dashboards to identify sales drivers, profitability patterns, and business growth opportunities.
 
 **Tools:** Python, SQL, Power BI
 
