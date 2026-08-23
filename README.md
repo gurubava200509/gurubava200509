@@ -1,108 +1,48 @@
 # Hi, I'm Gurubava M
 
-Data Analyst skilled in Python, SQL, Excel, and Power BI, with hands-on experience building end-to-end analytics projects across Sales, Supply Chain, and Customer Analytics domains.
+**MIS / Reporting professional focused on Sales Operations, with hands-on experience using Microsoft Excel to build KPI reports, performance tracking reports, and management dashboards.**
 
-I specialize in transforming raw data into actionable business insights through data cleaning, exploratory analysis, SQL reporting, KPI development, and dashboard storytelling.
+I focus on transforming operational data into **accurate, structured, and management-ready information** for monitoring business performance and supporting day-to-day decision-making.
 
----
+## Core Skills
 
-## Technical Skills
+### Microsoft Excel
 
-### Programming & Data Analysis
+* PivotTables
+* XLOOKUP / VLOOKUP
+* SUMIFS / COUNTIFS
+* IF / IFS
+* Data Cleaning & Validation
+* KPI Calculations
+* Charts & Dashboard Development
 
-* Python (Pandas, NumPy)
-* SQL (MySQL)
+### MIS & Reporting
 
-### Data Visualization & Reporting
+* MIS Report Preparation
+* KPI & Management Reporting
+* Target vs Achievement Analysis
+* Sales Performance Reporting
+* Monthly Performance Reporting
+* Operational Reporting
+* Data Validation & Reconciliation
 
+### Additional Tools
+
+* Power Query
 * Power BI
-* Microsoft Excel
 
-### Analytics & Business Intelligence
+## Featured Project
 
-* Exploratory Data Analysis (EDA)
-* Data Cleaning & Transformation
-* KPI Development
-* Business Performance Analysis
-* Dashboard Design & Storytelling
-* Business Insight Generation
+### Sales Operations MIS System
 
-### SQL Concepts
+Built an Excel-based **Sales Operations MIS System** to transform operational sales data into structured MIS calculations, KPI reporting, performance analysis, and a management dashboard.
 
-* Joins
-* Aggregations
-* Subqueries
-* Common Table Expressions (CTEs)
-* Window Functions
+**Reporting areas:** Orders & Revenue | Target vs Achievement | Monthly Performance | Sales Pipeline | Regional Performance | KPI Dashboard
 
-### Tools
+**Tool:** Microsoft Excel
 
-* Git
-* GitHub
-* Jupyter Notebook
-* MySQL
+## Career Focus
 
----
+**MIS Executive | MIS Analyst | Reporting Executive | Sales Operations MIS | Operations Reporting**
 
-## Featured Projects
-
-### [Customer Lifetime Value (CLV) & Cohort Analytics](https://github.com/gurubava200509/Customer-Lifetime-Value-Cohort-Analytics)
-
-
-Performed customer lifetime value and cohort analysis to measure retention patterns, repeat purchase behavior, customer profitability, and long-term engagement. Built dashboards to support customer segmentation and retention-focused decision-making.
-
-**Tools:** Python, SQL, Power BI
-
----
-### [Supply Chain Performance Analytics](https://github.com/gurubava200509/Supply-Chain-Performance-Analytics)
-
-
-Analyzed supply chain operations using 100K+ order records to evaluate delivery performance, order fulfillment efficiency, inventory operations, and payment behavior. Developed KPIs and dashboards to identify operational bottlenecks and improve business performance visibility.
-
-**Tools:** Python, SQL, Power BI
-
----
-
-### [E-Commerce Sales Analytics](https://github.com/gurubava200509/ecommerce-sales-delivery-performance-analytics)
-
-Analyzed e-commerce sales performance, revenue trends, customer purchasing behavior, and product category performance. Developed SQL analysis and Power BI dashboards to identify sales drivers, profitability patterns, and business growth opportunities.
-
-**Tools:** Python, SQL, Power BI
-
----
-
-## Core Competencies
-
-* Data Cleaning & Preparation
-* Exploratory Data Analysis
-* SQL Query Development
-* Data Visualization
-* Dashboard Development
-* Business Intelligence Reporting
-* Sales Analytics
-* Supply Chain Analytics
-* Customer Analytics
-* Revenue & Profitability Analysis
-* KPI Reporting
-
----
-
-## Currently Learning
-
-* Advanced SQL
-* Power BI Data Modeling
-* DAX
-* Statistical Analysis
-* Business Intelligence Best Practices
-
----
-
-## Connect With Me
-
-**LinkedIn:** https://www.linkedin.com/in/gurubava
-
-**Email:** gurubava09@gmail.com
-
----
-
-Open to Data Analyst, Business Analyst, and Power BI opportunities.
+Open to opportunities where Excel-based reporting, KPI monitoring, and operational data management are core responsibilities.
