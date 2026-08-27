@@ -33,7 +33,9 @@ I focus on transforming operational data into **accurate, structured, and manage
 
 ## Featured Project
 
-#### [Sales Operations MIS System](https://github.com/gurubava200509/sales-operations-mis-system)
+### Sales Operations MIS System
+
+[🔗 View Project Repository](https://github.com/gurubava200509/sales-operations-mis-system)
 
 Built an Excel-based **Sales Operations MIS System** to transform operational sales data into structured MIS calculations, KPI reporting, performance analysis, and a management dashboard.
 
